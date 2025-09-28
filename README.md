@@ -1,12 +1,10 @@
 **Convolutional Neural Network for Brain Tumor Detection and Diagnosis (Pytorch, F1-score: 0.97)**
 
-* ![](https://assets.neurosurgicalatlas.com/aaroncohen-gadol-com/patients/brain-tumor-fig1.jpg)
 
 This repository provides a solution for detecting brain tumors from MRI images using Convolutional Neural Networks (CNN) in PyTorch. The goal is to classify brain tumors as either benign or malignant, which is crucial for early diagnosis and treatment.
 
 ## Project Contents
 
-- **`LICENSE`**: Contains the license for this repository (MIT License).
 - **`Presentation.pdf`**: A presentation file that explains the model and its implementation.
 - **`README.md`**: This file, providing an overview of the project.
 - **`brain-tumor-detection-by-cnn-pytorch.ipynb`**: Jupyter notebook for implementing and training the CNN model for brain tumor detection.
@@ -52,12 +50,3 @@ Here is a visualization of the CNN model architecture:
 
 ![CNN Model Visualization](cnn_model_visualization.png)
 
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
