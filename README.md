@@ -24,15 +24,10 @@ The model uses a Convolutional Neural Network (CNN) with several convolutional l
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/P-Darabi/Brain-Tumor-Detection.git
+    git clone https://github.com/hiren483/Brain-Tumor-Detection.git
     cd Brain-Tumor-Detection
     ```
 
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
