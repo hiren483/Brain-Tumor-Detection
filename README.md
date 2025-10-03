@@ -9,7 +9,6 @@ This repository provides a solution for detecting brain tumors from MRI images u
 - **`README.md`**: This file, providing an overview of the project.
 - **`brain-tumor-detection-by-cnn-pytorch.ipynb`**: Jupyter notebook for implementing and training the CNN model for brain tumor detection.
 - **`cnn_model_visualization.png`**: Visualization of the architecture of the CNN model.
-- **`requirements.txt`**: Required Python libraries and dependencies for running the project.
 
 ## Dataset
 
